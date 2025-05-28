@@ -1,0 +1,225 @@
+turingpost:
+  technical:
+    - title: "What is Mamba?"
+      description: "A deep dive into sequence modeling, exploring the drawbacks of transformers, and what Mamba brings into play. We examine Mamba's origins, the issues it addresses, and why it might be a better alternative to transformer models."
+      link: "https://www.turingpost.com/p/mamba"
+      date: "May 29, 2024"
+      author: "Valeriia Kuka"
+
+    - title: "What is Graph RAG approach?"
+      description: "An exploration of the limitations of RAG and the benefits of Graph RAG approach, providing clarity on terms and a comprehensive list of resources for implementation."
+      link: "https://www.turingpost.com/p/graphrag"
+      date: "June 05, 2024"
+      author: "Valeriia Kuka"
+
+    - title: "What is JEPA?"
+      description: "A comprehensive look at Joint Embedding Predictive Architecture (JEPA), its differences from transformers, and a curated list of JEPA-based models. The article received praise from Yann LeCun himself."
+      link: "https://www.turingpost.com/p/jepa"
+      date: "June 12, 2024"
+      author: "Valeriia Kuka"
+
+    - title: "What is Mixture-of-Experts (MoE)?"
+      description: "A detailed exploration of MoE origins, advantages over single neural networks, Sparsely-Gated MoE, and recent developments driving sudden interest in the field."
+      link: "https://www.turingpost.com/p/moe"
+      date: "May 24, 2024"
+      authors: "Valeriia Kuka & Valeriia Kuka"
+
+  company_profiles:
+    - title: "AI21 Labs: Being in Amazon's Bedrock without any investment from Amazon"
+      description: "An analysis of how AI21 Labs maintains independence and innovation while collaborating with Amazon, distinguishing itself from industry giants like OpenAI."
+      link: "https://www.turingpost.com/p/ai21labs"
+      date: "December 15, 2023"
+      authors: "Valeriia Kuka, Ksenia Se & Tasmia Ansari"
+
+    - title: "Lightricks: The Oldest Generative AI Unicorn"
+      description: "An exploration of how Lightricks leverages AI for the creator economy, examining their unique position as the first GenAI unicorn without a proprietary foundation model."
+      link: "https://www.turingpost.com/p/lightricks-chronicle"
+      date: "September 29, 2023"
+      authors: "Valeriia Kuka & Tasmia Ansari"
+
+    - title: "Databricks: the Future of Generative AI in the Enterprise Arena"
+      description: "A deep dive into Databricks' journey from open source to AI powerhouse, examining their strategic acquisitions and investments in the generative AI landscape."
+      link: "https://www.turingpost.com/p/databricks"
+      date: "February 09, 2024"
+      authors: "Ksenia Se & Valeriia Kuka"
+
+    - title: "CoreWeave: The Underdog Powering Generative AI's Explosion"
+      description: "An analysis of CoreWeave's evolution from cryptocurrency mining to leading cloud computing provider for AI, examining their strategic pivot and early access to NVIDIA's cutting-edge GPUs."
+      link: "https://www.turingpost.com/p/coreweave"
+      date: "March 08, 2024"
+      authors: "Valeriia Kuka & Ksenia Se"
+
+    - title: "Scale AI: How to Scale a Company on Every AI Trend"
+      description: "A comprehensive look at Scale AI's journey from appointment apps to data labeling powerhouse, examining their growth strategies and market positioning."
+      link: "https://www.turingpost.com/p/scaleai"
+      date: "February 23, 2024"
+      author: "Valeriia Kuka"
+
+    - title: "Moonshot AI: The Chinese Unicorn Revolutionizing Long-Context AI"
+      description: "An examination of how Moonshot AI achieved a $2.5 billion valuation in one year, exploring their technical innovations and plans to compete globally."
+      link: "https://www.turingpost.com/p/moonshotai"
+      date: "May 10, 2024"
+      authors: "Ksenia Se & Valeriia Kuka"
+
+    - title: "Zhipu AI: The Rise of an AI Tiger Reaching for AGI"
+      description: "A comprehensive overview of Zhipu AI's technology, open-source efforts, partnerships, and future goals, examining their position as one of China's four new AI tigers."
+      link: "https://www.turingpost.com/p/zhipu"
+      date: "May 03, 2024"
+      authors: "Ksenia Se & Valeriia Kuka"
+
+    - title: "Snowflake's Mission: Demolishing Data Limitations in the Era of Enterprise AI"
+      description: "An analysis of Snowflake's Arctic LLM and their strategic positioning in the enterprise AI market, examining technical specifications and future prospects."
+      link: "https://www.turingpost.com/p/snowflake"
+      date: "April 27, 2024"
+      authors: "Valeriia Kuka & Ksenia Se"
+
+    - title: "Cerebras: an Engineering Marvel to Rival NVIDIA"
+      description: "An exploration of Cerebras Systems' innovative approach to AI chip development, examining their wafer-scale engine technology and market positioning against NVIDIA."
+      link: "https://www.turingpost.com/p/cerebras"
+      date: "June 15, 2024"
+      authors: "Valeriia Kuka & Ksenia Se"
+
+    - title: "xAI: The game of catching up"
+      description: "A detailed analysis of Elon Musk's AI venture xAI, examining their rapid progress with Grok-1 and strategic positioning in the AI landscape."
+      link: "https://www.turingpost.com/p/xai"
+      date: "July 05, 2024"
+      authors: "Valeriia Kuka & Ksenia Se"
+
+  fmops_series:
+    title: "FMOps Infrastructure Stack Series"
+    description: "A comprehensive series demystifying the FMOps infrastructure stack, dissecting its structure and assessing its relevance. From foundation model basics to advanced concepts like RAG and Chain-of-Thought Prompting."
+    status: "14 editions published"
+    articles:
+      - title: "Token 1.24: Understanding Multimodal Models"
+        subtitle: "Exploring the evolution and significance of multimodal models in 2024"
+        description: "A comprehensive analysis of multimodal models, examining their evolution from early implementations to current state-of-the-art systems like SORA."
+        concepts:
+          - "Multimodal Models"
+          - "Text-to-Video Generation"
+          - "Multimodal Fusion"
+          - "Vision-Language Models"
+          - "Cross-Modal Learning"
+        link: "https://www.turingpost.com/p/multimodal"
+        date: "March 13, 2024"
+        author: "Valeriia Kuka"
+
+      - title: "Token 1.22: Data Privacy in LLM systems"
+        subtitle: "Technical strategies for managing privacy concerns in LLM deployments"
+        description: "An in-depth exploration of data privacy challenges in LLM systems, covering data leakage prevention, anonymization techniques, and privacy-preserving technologies."
+        concepts:
+          - "Data Privacy"
+          - "Data Leakage"
+          - "Differential Privacy"
+          - "Federated Learning"
+          - "GDPR Compliance"
+        link: "https://www.turingpost.com/p/dataprivacy"
+        date: "February 28, 2024"
+        author: "Valeriia Kuka"
+
+      - title: "Token 1.15: What are Hallucinations: a Critical Challenge or an Opportunity?"
+        subtitle: "Understanding and managing model hallucinations across different modalities"
+        description: "A comprehensive guide to understanding hallucinations in foundation models, exploring their causes, detection methods, and potential benefits."
+        concepts:
+          - "Model Hallucinations"
+          - "Detection Methods"
+          - "Quality Control"
+          - "Error Analysis"
+          - "Best Practices"
+        link: "https://www.turingpost.com/p/hallucination"
+        date: "January 03, 2024"
+        author: "Valeriia Kuka"
+
+  historical_series:
+    - title: "Complete History of LLMs Series"
+      description: "A comprehensive series tracing the evolution of Large Language Models from the 1930s to present day."
+      link: "https://www.turingpost.com/p/llmhistory-recap"
+      date: "2023"
+      authors: "Valeriia Kuka & Ksenia Se"
+      is_overview: true
+
+    - title: "The Era of Mechanical Translation and How It Crashed (History of LLMs #1)"
+      description: "A journey through the early days of computational linguistics from 1933 to 1966, exploring the rise and fall of mechanical translation systems."
+      link: "https://www.turingpost.com/p/llmshistory1"
+      date: "June 16, 2023"
+      authors: "Valeriia Kuka & Ksenia Se"
+    
+    - title: "Fascinating Birth of AI, First Chatbots and the Power of US Department of Defense (History of LLMs #2)"
+      description: "Discover how cognitive sciences revived NLP in the 1960s, the birth of AI, and the crucial role of the Department of Defense in advancing language processing research."
+      link: "https://www.turingpost.com/p/llmshistory2"
+      date: "June 23, 2023"
+      authors: "Valeriia Kuka & Ksenia Se"
+    
+    - title: "There Would Have Been No LLMs Without This (History of LLMs #3)"
+      description: "Exploring the game-changing 1990s: the bloom of neural networks, success of RNNLM and backpropagation, introduction of GPUs, and the advent of Transformers."
+      link: "https://www.turingpost.com/p/llmshistory3"
+      date: "July 07, 2023"
+      authors: "Valeriia Kuka & Ksenia Se"
+    
+    - title: "The Secret Sauce Behind ChatGPT and Other Important LLMs (History of LLMs #4)"
+      description: "Unveiling the impact of LLMs on Natural Language Processing, from the breakthrough of Transformers to the rise of ChatGPT."
+      link: "https://www.turingpost.com/p/llmhistory4"
+      date: "July 14, 2023"
+      author: "Valeriia Kuka"
+
+    - title: "The Story of AI Winters and What it Teaches Us Today (History of LLMs. Bonus)"
+      description: "A comprehensive timeline of AI winters, exploring five major periods of reduced funding and interest in AI research, and the valuable lessons learned."
+      link: "https://www.turingpost.com/p/aiwinters"
+      date: "June 30, 2023"
+      author: "Valeriia Kuka"
+      
+    - title: "A Deep Dive Into LLaMA, Falcon, Llama 2 and Their Remarkable Fine-Tuned Versions (History of LLMs. Bonus)"
+      description: "An exploration of the leading open-source LLMs and their chatbot derivatives, featuring performance analysis from the Hugging Face Open LLM leaderboard."
+      link: "https://www.turingpost.com/p/top3llmsope"
+      date: "July 28, 2023"
+      author: "Valeriia Kuka"
+
+    - title: "The History of Computer Vision on the Path to AGI"
+      description: "An exploration of computer vision's evolution and its crucial role in achieving Artificial General Intelligence."
+      link: "https://www.turingpost.com/p/cvhistory1"
+      date: "April 10, 2024"
+      authors: "Ksenia Se & Valeriia Kuka"
+
+    - title: "The Dawn of Computer Vision: From Concept to Early Models (1950-70s)"
+      description: "A journey through the foundational period of computer vision, examining early developments and their impact on modern AI systems."
+      link: "https://www.turingpost.com/p/cvhistory2"
+      date: "April 17, 2024"
+      author: "Valeriia Kuka"
+
+  short_notes:
+    - tag: "Insight"
+      content: "LangChain identifies three critical frontiers in AI agents: strategic planning beyond basic loops, innovative UX for human-agent interaction, and enhanced memory systems."
+      link: "https://www.turingpost.com/p/langchain-agents"
+      date: "April 15, 2024"
+
+    - tag: "Trend"
+      content: "Modern LLM benchmarking requires comprehensive evaluation across multiple dimensions: commonsense reasoning, coding proficiency, and mathematical problem-solving capabilities."
+      link: "https://www.turingpost.com/p/llm-benchmarking"
+      date: "April 22, 2024"
+
+    - tag: "Insight"
+      content: "Ilya Sutskever's legendary list of 40 research papers, promised to contain '90% of what matters in AI,' remains an enigmatic symbol of core knowledge in the field."
+      link: "https://www.turingpost.com/p/sutskever-papers"
+      date: "April 29, 2024"
+
+    - tag: "Challenge"
+      content: "Time series foundation models are emerging as a distinct category in 2024, with innovations like TimesFM, Moirai, and Chronos tackling temporal data analysis challenges."
+      link: "https://www.turingpost.com/p/time-series-models"
+      date: "May 06, 2024"
+
+    - tag: "Privacy"
+      content: "Vector databases like Milvus, Qdrant, and Weaviate are becoming crucial for managing complex AI data types, offering enhanced similarity search capabilities."
+
+    - tag: "Trend"
+      content: "Chinese AI development is accelerating with powerful open-source LLMs, demonstrating significant progress in multilingual capabilities and domain-specific applications."
+
+    - tag: "Challenge"
+      content: "The LLM application development landscape is evolving with robust open-source tools, enabling faster deployment and more sophisticated AI integrations."
+
+    - tag: "Insight"
+      content: "Dr. Andrew Ng emphasizes AI's versatility across sectors, highlighting supervised learning and generative AI as fundamental tools shaping the landscape."
+
+    - tag: "Trend"
+      content: "Major tech companies are shifting away from NVIDIA GPUs, with Google, Microsoft, Amazon, and others developing specialized AI chips for enhanced performance."
+
+    - tag: "Challenge"
+      content: "The synthetic data market is projected to grow from $110M to $1.15B by 2027, with Gartner predicting ML models will exclusively use synthetic data by 2030." 
