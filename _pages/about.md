@@ -45,6 +45,7 @@ My B.Sc. in Econometrics and Quantitative Economics from Higher School of Econom
 ## Beyond Tech
 
 Outside AI/ML publishing, I've:
+
 - Volunteered at online research conferences
 - Guided museum tours about Dostoevski in Saint Petersburg
 - Coordinated editorial teams at a media platform about science and studying abroad, successfully hosting Nobel Prize laureates and distinguished researchers as contributors
