@@ -2,22 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: AI/ML Content Strategist & Technical Writer
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: false
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -27,8 +24,29 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm Valeriia Kuka!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm a technical writer and content manager specializing in AI/ML, passionate about turning cutting-edge research into clear, practical guides that help people learn. I love exploring complex tech and tracing where groundbreaking ideas come from.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Work Experience
+
+Over the past four years, I've grown from leading social media to developing comprehensive content strategies, seeing all content channels as one big system that creates cohesive narratives across platforms.
+
+For the past 2 years, I've been contributing pieces about cutting-edge AI/ML topics like Retrieval-Augmented Generation (RAG), Chain-of-Thought (CoT) and [various prompting techniques](https://learnprompting.org/docs/introduction), Mamba, Mixture-of-Experts (MoE), and Joint Embedding Predictive Architecture (JEPA). My [JEPA article](https://www.turingpost.com/p/jepa) was honored to receive [positive feedback](https://www.linkedin.com/posts/valeriia-kuka_im-thrilled-that-yann-lecun-mentioned-my-activity-7214878094174679040-XrCU) from JEPA's creator, Yann LeCun!
+
+I've also contributed to AI unicorn profiles and historical series about AI and LLMs specifically. I believe this historical perspective is crucial because we're building on the legacy of past innovations.
+
+Throughout my career, I've developed technical and research-focused social media channels (Twitter and LinkedIn), earning reposts from Stanford NLP, Amazon Research, Hugging Face, and AI researchers.
+
+## Education
+
+My B.Sc. in Econometrics and Quantitative Economics from Higher School of Economics gave me a solid foundation in Calculus, Linear Algebra, Probability and Statistics, and Machine Learning (check out my [final assignment project](github.com/kavaivaleri/Machine-Learning-Assignment)).
+
+## Beyond Tech
+
+Outside AI/ML publishing, I've:
+- Volunteered at online research conferences
+- Guided museum tours about Dostoevski in Saint Petersburg
+- Coordinated editorial teams at a media platform about science and studying abroad, successfully hosting Nobel Prize laureates and distinguished researchers as contributors
+
+I believe in building bridges between complex technical concepts and practical understanding, always striving to make AI/ML more accessible to everyone.
