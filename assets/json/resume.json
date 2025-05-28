@@ -41,10 +41,7 @@
       "endDate": "Present",
       "summary": "",
       "employmentType": "Part-time",
-      "highlights": [
-        "Own end-to-end newsletter production",
-        "Partner with sponsors to develop effective promotional content"
-      ]
+      "highlights": ["Own end-to-end newsletter production", "Partner with sponsors to develop effective promotional content"]
     },
     {
       "name": "Learn Prompting",
@@ -61,7 +58,8 @@
         "Achieved all-time-high traffic to /courses/ in March 2025",
         "Led a team of 3-5 freelance writers and contributed to docs, blog, and newsletter",
         "Authored contributor and SEO handbooks, reducing writer onboarding time",
-        "Launched series on hands-on guides (GPT-4o Image Gen, ElevenLabs, Perplexity, NotebookLM)"      ]
+        "Launched series on hands-on guides (GPT-4o Image Gen, ElevenLabs, Perplexity, NotebookLM)"
+      ]
     },
     {
       "name": "DataTalks.Club",
@@ -254,14 +252,7 @@
   "interests": [
     {
       "name": "Professional Interests",
-      "keywords": [
-        "Technical Writing",
-        "Content Management",
-        "AI/ML",
-        "Data Science",
-        "Social Media Marketing",
-        "Community Building"
-      ]
+      "keywords": ["Technical Writing", "Content Management", "AI/ML", "Data Science", "Social Media Marketing", "Community Building"]
     }
   ]
 }
