@@ -1,200 +1,267 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Valeria Kuka",
+    "label": "Technical Writer & Content Manager",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "kavaivaleri@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced technical writer and content manager specializing in AI/ML, social media marketing, and community building.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "valeriia_kuka",
+        "url": "https://twitter.com/valeriia_kuka"
+      },
+      {
+        "network": "GitHub",
+        "username": "kavaivaleri",
+        "url": "https://github.com/kavaivaleri"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "valeriia-kuka",
+        "url": "https://linkedin.com/in/valeriia-kuka"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "DataTalks.Club",
+      "position": "Newsletter Editor",
+      "url": "https://datatalks.club/",
+      "startDate": "2023-04",
+      "endDate": "Present",
+      "summary": "",
+      "employmentType": "Part-time",
+      "highlights": [
+        "Own end-to-end newsletter production",
+        "Partner with sponsors to develop effective promotional content"
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Learn Prompting",
+      "position": "Head of Content",
+      "url": "https://learnprompting.org/",
+      "startDate": "2024-08",
+      "endDate": "2025-04",
+      "summary": "Led content strategy for a platform with 3M+ users",
+      "highlights": [
+        "Owned documentation (Prompt Engineering Guide), blog, newsletter, and social channels",
+        "Grew (in 9 months) organic users +98%, sessions +65%, average engagement +25-45 pp on the website",
+        "Launched weekly newsletter achieving 35-40% open rate and 4-6% CTR",
+        "Grew Twitter (+12%) and LinkedIn (+75%)",
+        "Achieved all-time-high traffic to /courses/ in March 2025",
+        "Led a team of 3-5 freelance writers and contributed to docs, blog, and newsletter",
+        "Authored contributor and SEO handbooks, reducing writer onboarding time",
+        "Launched series on hands-on guides (GPT-4o Image Gen, ElevenLabs, Perplexity, NotebookLM)"      ]
+    },
+    {
+      "name": "DataTalks.Club",
+      "position": "Content Manager",
+      "url": "https://datatalks.club/",
+      "startDate": "2023-01",
+      "endDate": "2023-04",
+      "summary": "",
+      "employmentType": "Part-time",
+      "highlights": [
+        "Led social media strategy, introducing carousels and structured recurring posts",
+        "Grew LinkedIn from 11K to 15K followers (+31%) in 4 months",
+        "Improved engagement metrics: CTR (1.99% to 6.18%), rate (2.92% to 7.65%)",
+        "Increased post performance: impressions (+56%), clicks (+557%), likes (+133%)",
+        "Attracted 5,000 MLOps course sign-ups in 1.5 months through influencer partnerships",
+        "Designed newsletter template and social media asset system in Figma",
+        "Developed course promotion strategy across LinkedIn, Facebook, and owned channels",
+        "Created compelling Q&A and promotional content for course launch"
+      ]
+    },
+    {
+      "name": "TuringPost",
+      "position": "Contributing Editor",
+      "url": "https://www.turingpost.com/",
+      "startDate": "2023-02",
+      "endDate": "2024-06",
+      "summary": "Led social media strategy and contributed to content for AI/ML newsletter",
+      "highlights": [
+        "Established social media as the third-largest subscriber acquisition channel",
+        "Drove Twitter growth from 46K to 60K followers (+30%) and LinkedIn from 2.6K to 4.6K (+76%)",
+        "Wrote technical explainers driving 30% of premium conversions",
+        "Authored in-depth coverage of AI technologies including Transformers, RAG, and LLMs",
+        "Contributed to detailed profiles of AI unicorns like Databricks, Scale AI, Zhipu AI, Moonshot AI, xAI",
+        "Mentored new intern to full autonomy in 1 month through structured onboarding; led weekly social strategy reviews",
+        "Content regularly shared by leading organizations including Stanford NLP, Amazon Research, and Hugging Face"
+      ]
+    },
+    {
+      "name": "TheSequence",
+      "position": "Social Media Marketing Specialist",
+      "url": "https://thesequence.substack.com/",
+      "startDate": "2021-01",
+      "endDate": "2023-02",
+      "summary": "TheSequence is an ML community media, trusted by over 150,000+ specialists from all over the world, including the top AI labs, and hundreds of large enterprises.",
+      "employmentType": "Part-time",
+      "remote": true,
+      "highlights": [
+        "Owned end-to-end social media strategy and content creation for Twitter and LinkedIn",
+        "Grew Twitter from 500 to 46K followers (92x growth) and LinkedIn from 0 to 2.6K followers",
+        "Developed data-driven content strategy using weekly KPI analysis and performance tracking",
+        "Established partnerships with AI/ML communities and companies to expand reach",
+        "Created and tested various content formats based on competitor research and audience engagement",
+        "Monitored industry trends to maintain relevant and timely content across platforms"
+      ]
+    },
+    {
+      "name": "National Research University — Higher School of Economics",
+      "position": "Research Assistant at the International Laboratory of Game Theory and Decision Making",
+      "url": "",
+      "startDate": "2020-02",
+      "endDate": "2021-07",
+      "summary": "International Laboratory of Game Theory and Decision Making is a research group regularly published in renowned academic journals.",
+      "employmentType": "Part-time",
+      "highlights": [
+        "Contributed to Python class development simulating group preferences across statistical cultures to analyze manipulation effects in voting theory for bachelor's thesis research",
+        "Worked on research project under supervisor who received Russian Science Foundation Grant (1 of 300 grants in Russia, 1 of 3 at university)",
+        "Presented findings at GTM2020, GTM2021, and other international conferences",
+        "Received 2nd place award for bachelor's thesis at HSE Student Research Competition"
+      ]
+    },
+    {
+      "name": "National Research University — Higher School of Economics",
+      "position": "Teaching Assistant on Mathematical Optimization",
+      "url": "",
+      "startDate": "2019-09",
+      "endDate": "2019-12",
+      "summary": "Teaching Assistant on Mathematical Optimization course",
+      "highlights": [
+        "Led bi-weekly review sessions and Q&A consultations for 90+ students on advanced optimization concepts",
+        "Developed comprehensive study guides and practice problems for mid-term and final examinations"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Higher School of Economics",
+      "url": "https://www.hse.ru/en/",
+      "area": "Econometrics and Quantitative Economics",
+      "studyType": "Bachelor's degree",
+      "startDate": "2017",
+      "endDate": "2021",
+      "courses": [
+        "Microeconomics",
+        "Macroeconomics",
+        "Game Theory",
+        "Industrial Organization",
+        "Linear Algebra",
+        "Calculus",
+        "Probability Theory",
+        "Statistics & Econometrics",
+        "Machine Learning",
+        "Two-Sided Markets and Digital Platforms"
+      ]
     }
   ],
-  "awards": [
+  "volunteer": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "organization": "Nota Bene Journal",
+      "position": "Co-Editor-in-Chief",
+      "url": "",
+      "startDate": "2019-11",
+      "endDate": "2021-09",
+      "summary": "Led student-run publication focused on research and study abroad opportunities at HSE University",
+      "highlights": [
+        "Led project covering work and life in 10+ research and education laboratories",
+        "Managed 5 cross-functional teams (20+ members) including interviewers, editors, and content creators",
+        "Organized alumni panels featuring graduates studying in Russia, Italy, Spain, France, and Germany",
+        "Conducted thesis preparation workshops connecting senior and junior students",
+        "Edited 30+ stories including interviews, original content, and research reports",
+        "Interviewed prominent academics including Eric Maskin and Hervé Moulin",
+        "Created content including thesis-related articles and social media communications"
+      ]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "organization": "Peking University",
+      "position": "Conference Volunteer",
+      "url": "",
+      "startDate": "2020-12",
+      "endDate": "2020-12",
+      "summary": "Supported The 16th Conference on Web and Internet Economics",
+      "highlights": [
+        "Managed technical setup and testing of speakers' broadcasting environments",
+        "Facilitated Q&A sessions between presenters and conference attendees"
+      ]
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "organization": "The F.M.Dostoevsky Literary-Memorial Museum",
+      "position": "Guide",
+      "url": "",
+      "startDate": "2019-09",
+      "endDate": "2020-09",
+      "summary": "Volunteered as guide for special museum events",
+      "highlights": [
+        "Conducted literary exhibition tours during the Night of Museums event",
+        "Coordinated visitor-guide assignments during major museum events",
+        "Led guided walking tours in Saint Petersburg for Dostoevsky Day celebrations"
+      ]
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "organization": "International Economics Olympiad",
+      "position": "Media Specialist",
+      "url": "http://2019.ecolymp.org/news",
+      "startDate": "2019-07",
+      "endDate": "2019-07",
+      "summary": "Served on media team for international academic competition",
+      "highlights": [
+        "Developed and executed media plan for event coverage",
+        "Created content and conducted interviews for the official website",
+        "Managed real-time event documentation and reporting"
+      ]
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "organization": "Nota Bene Journal",
+      "position": "Editorial Intern",
+      "url": "",
+      "startDate": "2017-11",
+      "endDate": "2019-09",
+      "summary": "Supported editorial operations of student-run publication",
+      "highlights": [
+        "Transcribed and edited interviews and original content",
+        "Created social media content to promote journal materials",
+        "Assisted with editorial review process"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "language": "English",
+      "fluency": "Fluent"
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "language": "Russian",
+      "fluency": "Native"
+    },
+    {
+      "language": "French",
+      "fluency": "Basic"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Professional Interests",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Technical Writing",
+        "Content Management",
+        "AI/ML",
+        "Data Science",
+        "Social Media Marketing",
+        "Community Building"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
